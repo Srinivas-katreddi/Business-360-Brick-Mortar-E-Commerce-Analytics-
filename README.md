@@ -329,35 +329,33 @@ These features allow users to move from a high-level overview to detailed busine
 
 # 📷 Dashboard Screenshots
 
-## Executive / Supply Chain View
+## Home
 
-![Executive Dashboard](images/executive-view.png)
+![Home Dashboard](images/home.png)
+
+--- 
+
+## Supply Chain View
+
+![Executive Dashboard](images/supply-chain.png)
 
 ---
 
 ## Sales / Product Performance
 
-![Sales Dashboard](images/sales-view.png)
+![Sales Dashboard](images/sales.png)
 
 ---
 
-## Customer Performance
+## Marketing Performance
 
-![Customer Dashboard](images/customer-view.png)
+![Marketing Dashboard](images/marketing.png)
 
 ---
 
 ## Finance / Profit & Loss
 
-![Finance Dashboard](images/finance-view.png)
-
----
-
-## Business 360 Navigation
-
-![Business 360 Home](images/business-360-home.png)
-
-> **Note:** Update the image paths above according to the actual screenshot filenames in the repository.
+![Finance Dashboard](images/finance.png)
 
 ---
 
